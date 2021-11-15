@@ -178,8 +178,5 @@ let g:ctrlp_open_func = {
          \ }
 ```
 
-___
-Created:: 2021-11-14
-Tags:: #tech #wiki #vim
-Links:: [[050-Tech-MOC]]
+
 
